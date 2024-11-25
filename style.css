@@ -1,0 +1,87 @@
+.page{
+    background-image: url(WhatsApp\ Image\ 2024-11-21\ at\ 01.56.52_99d25ed0.jpg);
+    background-size:cover;
+    background-position: center center;
+    width: 100%;
+    height: 715px;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+
+}
+.page h1{
+    text-align: center;
+    padding-top: 90px;
+}
+body{
+margin: 0%;
+}
+.line{
+    position: absolute;
+    right: 700px;
+    bottom: 590px;
+    width: 170px;
+    height: 20px;
+    margin: auto;
+    background-color:#d48abe;
+    opacity: .8;
+}
+.line:hover{
+    height: 40px;
+    transition: all 1s;
+}
+.course{
+    text-align: center;
+    color: #08ca6c;
+    font-size: 25px;
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.form-floating{
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.form-control{
+    width: 900px !important;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 9% !important;
+    margin-left: 90px;
+
+}
+.form-label{
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 90px;
+    color: white;
+}
+.btn-danger{
+    font-family: "Righteous", sans-serif !important;
+    font-weight: 400;
+    font-style: normal;
+    --bs-btn-bg: !important;  
+}
+.btn{
+    margin-left: 600px;
+}
+.btnn{
+    background-color: #08ca6c;
+    border-radius: 9px;
+}
+.btne{
+    background-color: crimson;
+    border-radius: 9px;
+}
+.table{
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+   
